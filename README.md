@@ -2,7 +2,7 @@
 Install all the requirements to enable read / write to ntfs drives on macos, for free.
 
 ## How-to
-1. Download the shell script
+1. Download the shell script : [here](https://github.com/ImFlog/ntfs-mac-helper/releases/download/0.1/ntfs.sh)
 2. chmod +x ntfs.sh
 3. ./ntfs.sh
 4. Follow the instruction (only a few)
